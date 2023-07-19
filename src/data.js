@@ -3,7 +3,8 @@ const reviews = [
     id: 1,
     name: "Lakshyadeep Gogoi",
     job: "Software Engineer",
-    image: "https://media.licdn.com/dms/image/D4D03AQEkiKBuy3-Ujg/profile-displayphoto-shrink_800_800/0/1664444720439?e=1695254400&v=beta&t=sinaKZKLlBX7BiYaHD8GH28pKFjY55gfVITP-QBK_W0",
+    image: "https://cdn.pixabay.com/photo/2017/08/01/01/33/beanie-2562646_1280.jpg",
+    
     text: "I have had the pleasure of working with this team on several projects, and I am consistently impressed with their technical expertise and ability to deliver quality solutions on time and within budget. They are a true partner and an asset to any project.",
   },
   {
